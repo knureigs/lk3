@@ -13,6 +13,8 @@ namespace ConsoleApp4
             Console.WriteLine("Hello!");
             // new Task
             // very big work....
+            string str = Console.ReadLine();
+            int num1 = Convert.ToInt32(str);
         }
     }
 }
